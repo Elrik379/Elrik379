@@ -1,5 +1,7 @@
+### :man_technologist: About Me :
 
-
+Java-Developer. В данный момент изучаю Spring Framework
+---
 
 ### 🛠️ Stack :
 
@@ -10,6 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="60" height="60"/>
 </div>
 
+---
+
 ### Для связи:
 <div id="badges">
   <a href="https://t.me/Eduard_0489">
@@ -18,8 +22,8 @@
 </div>
    </div>
    
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 <!---
