@@ -1,5 +1,3 @@
-### Hi. My name is Eduard
-
 ### 🛠️ Stack :
 
 <div>
