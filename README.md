@@ -1,6 +1,3 @@
-About me:
-
-Java-Developer
 
 ### 🛠️ Stack :
 
