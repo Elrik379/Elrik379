@@ -1,6 +1,25 @@
 ### :man_technologist: About Me :
+```php
 
-Java-Developer. В данный момент изучаю Spring Framework
+public class JavaLearner extends Human implements Workable, Adaptable{
+
+    private String NAME;
+    private int age;
+    private String place;
+
+    public JavaLearner(){
+        NAME = "Эдуард";
+        age = 33;
+        place = "Уфа";
+    }
+    
+    ...
+    Getters and Setters
+    ...
+
+}
+
+```
 ---
 
 ### 🛠️ Stack :
