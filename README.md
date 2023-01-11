@@ -18,7 +18,7 @@ public class JavaLearner extends Human implements Workable, Adaptable {
     }
 
     public String getCurrentState() {
-        return "Продолжаю изучать обширные возможности Java, инструментов для работы и фреймворков";
+        return "Продолжаю изучать обширные возможности Java, инструменты для работы и фреймворки";
     }
 
     @Override
