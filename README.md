@@ -1,16 +1,29 @@
 ### :man_technologist: About Me :
 ```php
 
-public class JavaLearner extends Human implements Workable, Adaptable{
+public class JavaLearner extends Human implements Workable, Adaptable {
 
-    private String NAME;
+    private String name;
     private int age;
     private String place;
 
     public JavaLearner(){
-        NAME = "Эдуард";
+        name = "Эдуард";
         age = 33;
         place = "Уфа";
+    }
+    
+    public String getStack() {
+        return "Java SE, Spring Core, Maven, Git";
+    }
+
+    public String getCurrentState() {
+        return "Продолжаю изучать обширные возможности Java, инструментов для работы и фреймворков";
+    }
+
+    @Override
+    public String toString() {
+        return name + " очень хочет стать отличным Java-разработчиком";
     }
     
     ...
