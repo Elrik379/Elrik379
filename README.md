@@ -23,7 +23,7 @@ public class JavaLearner extends Human implements Workable, Adaptable {
 
     @Override
     public String toString() {
-        return name + " очень хочет стать отличным Java-разработчиком";
+        return name + " очень хочет стать профессиональным Java-разработчиком";
     }
     
     ...
